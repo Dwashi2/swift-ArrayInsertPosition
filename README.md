@@ -37,7 +37,7 @@
  
 
 
-It's a simple app, only to study image array
+It's a simple app, only to study array, insert, remove, and function
 
 
 <!-- GETTING STARTED -->
